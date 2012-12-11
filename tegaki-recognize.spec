@@ -39,3 +39,10 @@ rm -rf %{buildroot}
 %{_bindir}/tegaki-recognize
 %{_datadir}/applications/tegaki-recognize.desktop
 %{_datadir}/pixmaps/tegaki-recognize.svg
+
+
+%changelog
+* Tue Nov 02 2010 Funda Wang <fwang@mandriva.org> 0.3.1.2-1mdv2011.0
++ Revision: 592301
+- import tegaki-recognize
+
