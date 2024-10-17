@@ -5,7 +5,7 @@ Release: 	2
 License: 	GPLv2+
 Group: 		System/Internationalization
 Source: 	http://www.tegaki.org/releases/%version/%{name}-%version.tar.gz
-URL: 		http://www.tegaki.org
+URL: 		https://www.tegaki.org
 Buildroot: 	%{_tmppath}/%{name}-%{version}-buildroot
 BuildRequires:	python-setuptools
 Requires:	tegaki-gui >= 0.3.1
